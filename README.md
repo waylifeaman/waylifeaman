@@ -14,8 +14,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### 🔗 Tech Stack
 
 <p align="left">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,vue,nextjs" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,nodejs,react,vue,expressjs,html,css,bootstrap,php,dart" />
 </a>
 </p>
  
