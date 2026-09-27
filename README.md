@@ -10,6 +10,14 @@ beberapa bulan terakhi ini saya belajar banyak tentang pemrograman web.
 saya membangun beberapa project mandiri serta project freelance
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadamanahcyad)ku ya.
+
+### 🔗 Tech Stack
+
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,vue,nextjs" />
+</a>
+</p>
  
 ### Github Statistic
 <p align="left">
