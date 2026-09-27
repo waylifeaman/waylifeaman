@@ -15,6 +15,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <p align="left">
 <a href="https://github.com/waylifeaman">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waylifeaman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waylifeaman&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waylifeaman&layout=compact&theme=algolia&langs_count=8&count_private=true"/>
 </a>
 </p>
