@@ -5,7 +5,7 @@ Perkenalkan nama saya **Muhammad Aman Ahcyad**.<br>
  
 Saya juga Lulusan D3 Teknik  Komputer 2024.<br>
 
-saat ini saya fokus untuk menjadi seorang fullstack web developer.<br>
+Saat ini saya fokus untuk menjadi seorang fullstack web developer.<br>
 beberapa bulan terakhi ini saya belajar banyak tentang pemrograman web.
 saya membangun beberapa project mandiri serta project freelance
 
